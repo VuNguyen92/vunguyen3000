@@ -501,7 +501,9 @@ footer {
 }
 
 @media (max-width:400px) {
-    
+    header a {
+        display: none;
+    }
 
     .container-box .box .small-image-box {
         margin: 2rem 0 0;

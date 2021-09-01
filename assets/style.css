@@ -831,6 +831,9 @@ footer {
 }
 
 @media (max-width:400px) {
+    header a {
+        display: none;
+    }
     .header-box {
         flex-wrap: wrap;
         justify-content: center;
