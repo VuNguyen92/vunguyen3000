@@ -159,15 +159,18 @@ header #menu-bar {
 
 /* Shoppping Cart */
 
-.container{
+.container {
     /* margin: 0 auto; */
 }
+
 .cart{
     display: flex;
 }
+
 .products{
     flex: 0.75;
 }
+
 .product{
     display: flex;
     width: 100%;
